@@ -9,7 +9,11 @@
 - **Dependencies**: Install required packages from `requirements.txt`
 
 ## Architecture Diagram 
-![Architectural Diagram](mermaid-diagram-2025-09-22-105141.png)
+![Simple Architectural Diagram](diagram-simple.png)
+*Simple overview of the ReDrugAI system architecture showing the main data flow and components*
+
+![Complex Architectural Diagram](diagram-complex.png)
+*Complex detailed view of the system architecture including all technical components, data processing pipelines, and AI model interactions*
 
 ## Core Components
 ### `main.ipynb`
